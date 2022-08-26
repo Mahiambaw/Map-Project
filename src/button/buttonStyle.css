@@ -1,0 +1,21 @@
+.btn {
+  width: 155px;
+  height: 45px;
+  color: #ffffff;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  cursor: pointer;
+}
+.btn.btn--location {
+  background: #9a2eef;
+  bottom: 50px;
+  right: 70px;
+}
+.btn.btn--random {
+  background: #2ec1ef;
+  bottom: 50px;
+  left: 60px;
+}

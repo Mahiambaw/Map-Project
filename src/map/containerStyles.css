@@ -1,0 +1,44 @@
+.top-container {
+  padding: 200px;
+}
+
+.dummy-container {
+  height: 900px;
+  max-width: 1440px;
+}
+.inner-container {
+  width: 804px;
+  height: 596px;
+
+  box-sizing: border-box;
+  border-color: transparent;
+  margin: 0 auto;
+  background: rgba(196, 196, 196, 0.83);
+  padding: 10px 70px;
+}
+.map-container {
+  width: 598px;
+  height: 461px;
+  position: relative;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin: 0 auto;
+}
+.text {
+  font: robot;
+  text-align: center;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 21px;
+  color: #000;
+}
+.text-description {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 18px;
+  text-align: center;
+
+  color: #ffffff;
+}
